@@ -1,4 +1,6 @@
-# bases_vue
+# contador_vue
+
+Pequeño contador realizado con VueJs. Ejemplo de usos de v-bind, v-on y props.
 
 ## Project setup
 ```
